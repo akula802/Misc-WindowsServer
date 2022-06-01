@@ -1,4 +1,4 @@
-# Script to post a message to Slack when the Windows Server Backup (WAS) job finishes AND FAILS
+# Script to post a message to Slack when the Windows Server Backup (WSB) job finishes AND FAILS
 # Uses SendGrid with a hard-coded API key, this could absolutely be done better but met an immediate need
 
 # Based on an event log trigger on each server
